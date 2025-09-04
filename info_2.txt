@@ -1,4 +1,0 @@
-name: Mark
-family: Tabiat
-gender: man
-age: 34
