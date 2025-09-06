@@ -1,4 +1,8 @@
 name: Mark
 family: Tabiat
 age: 34
+<<<<<<< HEAD
 gender : wom
+=======
+gender : men
+>>>>>>> Flight
