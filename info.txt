@@ -1,4 +1,4 @@
 name: Mark
 family: Tabiat
 age: 34
-gender : women
+gender : wom
